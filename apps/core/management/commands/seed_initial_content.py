@@ -26,7 +26,7 @@ class Command(BaseCommand):
 
     def _seed_page_sections_from_locale(self, slug, title, namespace, section_keys, section_type="content"):
         content_en = self._frontend_locale(namespace, "en")
-        content_de = self._frontend_locale(namespace, "nl")
+        content_de = self._frontend_locale(namespace, "de")
         page, _ = Page.objects.get_or_create(title=title, slug=slug)
 
         for index, section_key in enumerate(section_keys, start=1):
