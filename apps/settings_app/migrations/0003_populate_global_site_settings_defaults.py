@@ -14,7 +14,7 @@ DEFAULTS = {
     "facebook_url": "https://www.facebook.com/8848MomoHouseFrankfurt",
     "instagram_url": "https://www.instagram.com/8848momohouse/",
     "youtube_url": "https://www.youtube.com/@momohouse-js7gp",
-    "order_url": "https://www.8848momos.com.au/order",
+    "order_url": "https://app.ordering.sumup.com/8848-momo-house/fra/menu",
     "privacy_url": "#",
     "terms_url": "#",
     "footer_text": "When you come to 8848 Momo House, expect to feel uplifted and warmly welcomed. Bring your friends, eat and drink and have some laughs. Above all, expect 100% satisfaction.",
